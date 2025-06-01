@@ -15,7 +15,7 @@ These are my two favourite to look at
 - **Merge Sort** | **Gravity Sort**
 <p style="display: flex; align-items:center">
     <img src="assets/demo/merge-sort.gif" width="400" alt="Demo">
-    <img src="assets/demo/gravity.gif" width="400" alt="Demo">
+    <img src="assets/demo/gravity-sort.gif" width="400" alt="Demo">
 </p>
 
 ## ⚙️ Setup
